@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **jithunkaweerasingha@gmail.com**
 
+- 🖲️ My Personal Portfolio Site - <a href="https://jithnuka-weerasinghe70.vercel.app/" target="blank"</a>
+
 - ⚡ Fun fact **call me as JITHNU**
  <br>
 
