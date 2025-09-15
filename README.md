@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **jithunkaweerasingha@gmail.com**
 
-- 🖲️ My Personal Portfolio Site - <a href="https://jithnuka-weerasinghe70.vercel.app/" target="blank"</a>
-
 - ⚡ Fun fact **call me as JITHNU**
  <br>
 
@@ -24,7 +22,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/jithnuka-weerasinghe-b9408b25a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="b9408b25a" height="30" width="40" /></a>
 <a href="https://fb.com/jithnukaweerasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jithnukaweerasinghe" height="30" width="40" /></a>
-<a href="https://instagram.com/__.jithnuka.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.jithnuka.__" height="30" width="40" /></a>
+<a href="https://instagram.com/__.jithnuka.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.jithnuka.__" height="30" width="40" /></a><a href="https://jithnuka-weerasinghe70.vercel.app/" target="blank">
+    <img align="center" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-portfolio-web-development-flaticons-lineal-color-flat-icons.png" alt="Portfolio" height="30" width="40" />
+  </a>
 </p>
 <br>
 
